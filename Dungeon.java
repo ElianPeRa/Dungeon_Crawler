@@ -1,11 +1,6 @@
 //Author:Elian Pena Ramos
-//CS 2
-//TA:Manuel Gutierrez
 //11/26/24
-//lab 9
-//Instructor:Monika Akbar
 //Dungeon rooms
-// CS2401
 public class Dungeon {
     // The root of the tree
     Room root;
@@ -80,3 +75,4 @@ public class Dungeon {
         root = createDungeon(brr);
     }
 }
+
