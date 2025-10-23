@@ -1,11 +1,7 @@
 //Author:Elian Pena Ramos
-//CS 2
-//TA:Manuel Gutierrez
 //11/26/24
-//lab 9
-//Instructor:Monika Akbar
 //Dungeon rooms
-// CS2401
+
 public class Room {
     // Room atributes
     public String description;
@@ -21,3 +17,4 @@ public class Room {
         right = null;
     }
 }
+
